@@ -1,3 +1,4 @@
 {
-  "alias": "bootswatchCyborg"
+  "alias": "bootswatchCyborg",
+  "dependency": ["ndut-route", "ndut-static", "ndut-view"]
 }
