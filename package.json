@@ -1,0 +1,27 @@
+{
+  "name": "ndut-theme-bootswatch-cyborg",
+  "version": "0.6.0",
+  "description": "Bootswatch Cyborg Theme for Ndut Framework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/ndut-theme-bootswatch-cyborg.git"
+  },
+  "keywords": [
+    "ndut",
+    "theme",
+    "bootswatch",
+    "cyborg",
+    "view",
+    "fastify",
+    "bootstrap"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/ndut-theme-bootswatch-cyborg/issues"
+  },
+  "homepage": "https://github.com/ardhi/ndut-theme-bootswatch-cyborg#readme"
+}
