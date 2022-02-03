@@ -1,7 +1,7 @@
 {
-  "name": "ndut-theme-bootswatch-cyborg",
+  "name": "ndut-theme-bootswatch",
   "version": "0.6.1",
-  "description": "Bootswatch Cyborg Theme for Ndut Framework",
+  "description": "Bootswatch Theme for Ndut Framework",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,6 @@
     "ndut",
     "theme",
     "bootswatch",
-    "cyborg",
     "view",
     "fastify",
     "bootstrap"

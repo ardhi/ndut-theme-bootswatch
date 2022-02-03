@@ -1,2 +1,2 @@
-# ndut-theme-bootswatch-cyborg
-Bootswatch Cyborg Theme for Ndut Framework
+# ndut-theme-bootswatch
+Bootswatch Theme for Ndut Framework

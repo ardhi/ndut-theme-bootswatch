@@ -1,4 +1,9 @@
 {
-  "alias": "bootswatchCyborg",
+  "alias": "bootswatch",
+  "theme": {
+    "cerulian": {
+      "title": "Bootswatch Cerulian"
+    }
+  },
   "dependency": ["ndut-route", "ndut-static", "ndut-view"]
 }
