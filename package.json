@@ -1,6 +1,6 @@
 {
   "name": "ndut-theme-bootswatch",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Bootswatch Theme for Ndut Framework",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ardhi/ndut-theme-bootswatch-cyborg/issues"
   },
-  "homepage": "https://github.com/ardhi/ndut-theme-bootswatch-cyborg#readme"
+  "homepage": "https://github.com/ardhi/ndut-theme-bootswatch-cyborg#readme",
+  "dependencies": {
+    "bootswatch": "^5.1.3"
+  }
 }
