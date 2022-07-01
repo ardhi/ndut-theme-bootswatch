@@ -1,6 +1,6 @@
 {
   "name": "ndut-theme-bootswatch",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "description": "Bootswatch Theme for Ndut Framework",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
